@@ -1,4 +1,4 @@
-# MNIST Dataset Using TensorFlow with Real Camera Capture
+# Handwritten Digit Recognition using TensorFlow/Keras with Real Camera Capture
 
 This project demonstrates how to build, train, and evaluate a simple neural network on the MNIST dataset using TensorFlow and Keras. It also showcases capturing images using a real webcam in Google Colab for further experimentation or custom data collection.
 
@@ -108,4 +108,4 @@ def take_photo(filename='photo.jpg', quality=0.8):
 
 ---
 
-**Repository:** [MNIST-Dataset-Using-Tensorflow_RealCamera](https://github.com/Vikash8294/MNIST-Dataset-Using-Tensorflow_RealCamera/)
+**Repository:** [Handwritten Digit Recognition using TensorFlow/Keras _RealCamera](https://github.com/Vikash8294/MNIST-Dataset-Using-Tensorflow_RealCamera/)
